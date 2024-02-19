@@ -1,0 +1,10 @@
+**Chat with website**
+This is a project using which you can interact with website data and ask relevant Questions.
+Note: 
+This project will work on specific versions and will work on their downgrade versions.
+It will show some errors due to new additional features in the new version. It can raise several errors(like import pwd, pebble.py file not imported).
+This code will be fine on UNIX of the latest version wherever it will raise errors in Windows.
+Use:-
+  langchain==0.1.6
+  langchain-community==0.0.19
+  langchain-core==0.1.23
