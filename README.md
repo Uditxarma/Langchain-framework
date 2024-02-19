@@ -1,2 +1,2 @@
 # Projects-using-RAG
-Here, we have collection of projects that uses the RAG Model
+Here, we have a collection of projects that use the Langchain Framework
