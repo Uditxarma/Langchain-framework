@@ -1,0 +1,3 @@
+**Question Answering System using RAG on your own custom pdf** 
+Used to Question Answer with your own custom dataset or pdf file. You can use any type of file to train your system.
+System is using Chromadb. You can use any other databases as vectorize store to create embeddings.
